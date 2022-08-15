@@ -1,1 +1,2 @@
-Code for Stage A quiz.
+Tag along Codes for Hamoye Internship.
+
